@@ -1,2 +1,2 @@
 #Projects
-Personal projects: python game in PyCharm
+Personal projects in C++ and Python
