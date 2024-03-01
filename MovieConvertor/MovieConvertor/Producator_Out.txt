@@ -1,0 +1,83 @@
+
+		Producatorul realizeaza urmatoarele functionalitati:  
+
+
+	In SCENA: 1
+
+Efectele scenei sunt urmatoarele: 
+
+		---Efecte sonore:  	explozii
+		---Efecte vizuale: 	ninsoare
+
+
+
+
+	In SCENA: 2
+
+Efectele scenei sunt urmatoarele: 
+
+		---Efecte sonore:  	trasnet
+		---Efecte vizuale: 	furtuna
+
+
+
+
+	In SCENA: 3
+
+Efectele scenei sunt urmatoarele: 
+
+		---Efecte sonore:  	vant
+		---Efecte vizuale: 	ninsoare
+
+
+
+
+	In SCENA: 4
+
+Efectele scenei sunt urmatoarele: 
+
+		---Efecte sonore:  	frunzele
+		---Efecte vizuale: 	flori
+
+
+
+
+	In SCENA: 5
+
+Efectele scenei sunt urmatoarele: 
+
+		---Efecte sonore:  	cascada
+		---Efecte vizuale: 	pasarele
+
+
+
+
+	In SCENA: 6
+
+Efectele scenei sunt urmatoarele: 
+
+		---Efecte sonore:  	frunzele
+		---Efecte vizuale: 	curcubeul
+
+
+
+
+	In SCENA: 7
+
+Efectele scenei sunt urmatoarele: 
+
+		---Efecte sonore:  	cascada
+		---Efecte vizuale: 	luna
+
+
+
+
+	In SCENA: 8
+
+Efectele scenei sunt urmatoarele: 
+
+		---Efecte sonore:  	raul
+		---Efecte vizuale: 	stele
+
+
+

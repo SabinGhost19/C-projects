@@ -1,0 +1,66 @@
+
+		Regizorul realizeaza urmatoarele functionalitati: 
+
+
+	Determinarea grdului de compatibilitate si creerea unui cadru specific
+		Dar si deteminarea si asignarea actorilor fiecarui personaj: 
+
+	Luna (Secundar) , jucat de ==> Sabin (Principal)
+
+
+	Stella (Principal) , jucat de ==> Rosca (Principal)
+
+
+	Kai (Secundar) , jucat de ==> Pili (Secundar)
+
+
+	Aric (Secundar) , jucat de ==> Gaitan (Secundar)
+
+
+	Magic_Star (Principal) , jucat de ==> Stancu (Secundar)
+
+
+	Irina (Secundar) , jucat de ==> Costan (Principal)
+
+
+	Butterfly_Fairy (Secundar) , jucat de ==> Tavi (Principal)
+
+
+	Magician (Secundar) , jucat de ==> Heasca (Secundar)
+
+
+
+	Fiecare Scena contine: 
+
+	Gradul de compatibilitate al scenei 1 : 6
+	Cadrul specific al scenei este urmatorul: ->roci  ->noapte  ->ninsoare  
+
+
+	Gradul de compatibilitate al scenei 2 : 7
+	Cadrul specific al scenei este urmatorul: ->roci  ->noapte  ->ninsoare  
+
+
+	Nu exista grad de compatibilitate deoarece nu sunt prezente persoanje in aceasta scena...
+	Cadrul specific al scenei este urmatorul: ->roci  ->noapte  ->ninsoare  
+
+
+	Gradul de compatibilitate al scenei 4 : 45
+	Cadrul specific al scenei este urmatorul: ->roci  ->noapte  ->ninsoare  
+
+
+	Gradul de compatibilitate al scenei 5 : 16
+	Cadrul specific al scenei este urmatorul: ->roci  ->noapte  ->ninsoare  
+
+
+	Gradul de compatibilitate al scenei 6 : 34
+	Cadrul specific al scenei este urmatorul: ->roci  ->noapte  ->ninsoare  
+
+
+	Gradul de compatibilitate al scenei 7 : 18
+	Cadrul specific al scenei este urmatorul: ->roci  ->noapte  ->ninsoare  
+
+
+	Gradul de compatibilitate al scenei 8 : 19
+	Cadrul specific al scenei este urmatorul: ->roci  ->noapte  ->ninsoare  
+
+

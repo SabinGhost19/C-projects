@@ -1,0 +1,251 @@
+
+		Scenaristul realizeaza urmatoarele functionalitati: 
+
+	Citirea datelor din fisier si selectarea atat a scenelor cat si a personajelor impreuna cu dialogurile acestora: 
+
+
+	Titlul acestei Povesti este: Finding the Magical Star
+
+
+
+
+		Personajele ce participante la aceasta poveste sunt: 
+
+	Luna (Secundar)
+
+
+	Stella (Principal)
+
+
+	Kai (Secundar)
+
+
+	Aric (Secundar)
+
+
+	Magic_Star (Principal)
+
+
+	Irina (Secundar)
+
+
+	Butterfly_Fairy (Secundar)
+
+
+	Magician (Secundar)
+
+
+Firul Narativ la scenelor este urmatorul : 1  2  3  4  5  6  7  8  
+
+
+Desfasurarea scenelor conform firului narativ : 
+
+	
+Continutul scenei 1 : 
+
+	In a distant kingdom, seven brave adventurers: Luna , Stella  ,and Kai begin their journey towards the tall mountain, where the legendary city of stars is said to be.
+
+
+Cadrul specific al scenei este urmatorul: 
+
+
+		Personajele care sunt in scena:		Tipul de persoanj: 
+
+			Luna
+			Stella
+			Kai
+
+
+	
+Continutul scenei 2 : 
+
+	
+Aric: This place seems like it's from a fairy tale !What wonders will we discover here?
+Luna: Each star has a magical story to tell .Let's listen carefully.
+Stella: Look !A star has fallen from the sky .It's the Magic_Star we're looking for.
+Kai: We must gather it and restore balance to our kingdom.
+Irina: But it won't be easy, magical creatures and unimaginable trials stand in our way.
+
+
+Cadrul specific al scenei este urmatorul: 
+
+
+		Personajele care sunt in scena:		Tipul de persoanj: 
+
+			Aric
+			Luna
+			Magic_Star
+			Stella
+			Kai
+			Irina
+
+
+	
+Continutul scenei 3 : 
+
+	
+Traveling through the enchanted forest, the group faces challenges from the keepers of ancient magic.
+
+
+Cadrul specific al scenei este urmatorul: 
+
+
+		!!!Nu exista personaje in aceasta scena...!!!
+
+	
+Continutul scenei 4 : 
+
+	
+The guardian of the first portal, Butterfly_Fairy ,tests their intelligence and courage.
+
+
+Cadrul specific al scenei este urmatorul: 
+
+
+		Personajele care sunt in scena:		Tipul de persoanj: 
+
+			Butterfly_Fairy
+
+
+	
+Continutul scenei 5 : 
+
+	
+Magician: Welcome, brave ones !I see you've overcome trials and are nearing your destination.
+Stella: You guided us with your gaze on the past and future .How can we gather the Magic_Star ?
+Magician: The answers are within you .You must discover your true intentions and use your collective power.
+Aric: But what exactly do we need to do ?We don't know how to access our inner power.
+Magician: Each of you has a unique gift and learn to accept it and share it with others, only then can you gather the Magic_Star.
+
+
+Cadrul specific al scenei este urmatorul: 
+
+
+		Personajele care sunt in scena:		Tipul de persoanj: 
+
+			Magician
+			Magic_Star
+			Stella
+			Aric
+
+
+	
+Continutul scenei 6 : 
+
+	
+In the city of radiance, Luna uses her magical abilities to guide the group through treacherous mazes.
+.After many attempts and sacrifices, the heroes reach the front of the tall city, where the Magic_Star awaits, shining in all its splendor.
+
+
+Cadrul specific al scenei este urmatorul: 
+
+
+		Personajele care sunt in scena:		Tipul de persoanj: 
+
+			Luna
+			Magic_Star
+
+
+	
+Continutul scenei 7 : 
+
+	
+Stella: The Magic_Star has guided us this far .How can we take it without disturbing the balance?
+Aric: The power of magic within us is the keyn .Each must offer their energy to restore harmony.
+Kai: Together we are stronger !Let's gather it in our hearts.
+Irina: I feel the warmth of magic growing .It's time to unite and bring light to the darkness.
+Magic_Star: Thank you, brave travelers, with your united hearts, the kingdom will know prosperity again.
+
+
+Cadrul specific al scenei este urmatorul: 
+
+
+		Personajele care sunt in scena:		Tipul de persoanj: 
+
+			Stella
+			Aric
+			Kai
+			Irina
+			Magic_Star
+
+
+	
+Continutul scenei 8 : 
+
+	
+Once they have gathered the Magic_Star ,the kingdom flourishes, and the tall city becomes a meeting place for those eager for magical knowledge.
+Luna becomes the wise storyteller of the kingdom, passing on magical stories to future generations.
+Aric and Stella marry, uniting their destinies in the presence of the Magic_Star .
+Kai becomes the leader of the luminous knights, defenders of peace and harmony in the kingdom.
+Irina ,the passionate explorer, embarks on new adventures to discover the secrets of magic worldwide.
+
+
+Cadrul specific al scenei este urmatorul: 
+
+
+		Personajele care sunt in scena:		Tipul de persoanj: 
+
+			Magic_Star
+			Luna
+			Aric
+			Stella
+			Kai
+			Irina
+
+
+
+
+
+		Personajele din intreaga poveste au urmatoarele replici:
+
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Luna are urmatoarele replici: 
+     -Each star has a magical story to tell .Let's listen carefully.  (in scena 2)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Stella are urmatoarele replici: 
+     -Look !A star has fallen from the sky .It's the Magic_Star we're looking for.  (in scena 2)
+
+     -You guided us with your gaze on the past and future .How can we gather the Magic_Star ?  (in scena 5)
+
+     -The Magic_Star has guided us this far .How can we take it without disturbing the balance?  (in scena 7)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Kai are urmatoarele replici: 
+     -We must gather it and restore balance to our kingdom.  (in scena 2)
+
+     -Together we are stronger !Let's gather it in our hearts.  (in scena 7)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Aric are urmatoarele replici: 
+     -This place seems like it's from a fairy tale !What wonders will we discover here?  (in scena 2)
+
+     -But what exactly do we need to do ?We don't know how to access our inner power.  (in scena 5)
+
+     -The power of magic within us is the keyn .Each must offer their energy to restore harmony.  (in scena 7)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Magic_Star are urmatoarele replici: 
+     -Thank you, brave travelers, with your united hearts, the kingdom will know prosperity again  (in scena 7)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Irina are urmatoarele replici: 
+     -But it won't be easy, magical creatures and unimaginable trials stand in our way  (in scena 2)
+
+     -I feel the warmth of magic growing .It's time to unite and bring light to the darkness.  (in scena 7)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Butterfly_Fairy are urmatoarele replici: 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+Magician are urmatoarele replici: 
+     -Welcome, brave ones !I see you've overcome trials and are nearing your destination.  (in scena 5)
+
