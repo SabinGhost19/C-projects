@@ -1,0 +1,2 @@
+def afisare():
+    print("Marina")
