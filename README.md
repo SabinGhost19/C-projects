@@ -1,2 +1,2 @@
 #Projects
-All my  c++ projects
+Personal projects: c++ & python
