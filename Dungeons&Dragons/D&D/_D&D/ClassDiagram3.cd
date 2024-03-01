@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Class" Collapsed="true">
+    <Position X="2.75" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAABAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Class.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Creature_Builder" Collapsed="true">
+    <Position X="8" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACACAAAAAAAAAAgAAAgAgAAAAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Creatue_Builder.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Human_Builder" Collapsed="true">
+    <Position X="5.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACACAAAAAAAAAAgAAAgAgAAAAAAAYAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Creatue_Builder.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Orc_Builder" Collapsed="true">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACACAAAAAAAAAAgAAAgAgAAAAAAAYAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Creatue_Builder.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Elf_Builder" Collapsed="true">
+    <Position X="10.25" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACACAAAAAAAAAAgAAAgAgAAAAAAAYAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Creatue_Builder.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Creature_Builder_Director" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Creatue_Builder.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Creature" Collapsed="true">
+    <Position X="0.5" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAQAAAAAAAAAAAAAAEgIAAAAAAAAAAIAAAAQAg=</HashCode>
+      <FileName>Creature.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Dungeon_Master" Collapsed="true">
+    <Position X="14.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAgAAIIAAgAAAIAEAAwAAAAAAAAAgAAgAAAEAAA=</HashCode>
+      <FileName>Dungeon_Master.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IClass" Collapsed="true">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IClass.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ICreature" Collapsed="true">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>ICreature.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="IEssence" Collapsed="true">
+    <Position X="1.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAAAAAAABAAQAAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>IEssence.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Essence" Collapsed="true">
+    <Position X="1.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAQAAAgAAAAABAAAAIAAAEAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Essence.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Struct Name="Attack" Collapsed="true">
+    <Position X="12.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAACAAAAAAAAAIAAAAAAAAIABAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Utility.h</FileName>
+    </TypeIdentifier>
+  </Struct>
+  <Enum Name="Ability" Collapsed="true">
+    <Position X="12.75" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAgAAQAAAAAAACAAQAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Utility.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Enemy_LVL" Collapsed="true">
+    <Position X="14.5" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIAAgAAAAAAAAAAAAAAAAAAAAAAAAAQAA=</HashCode>
+      <FileName>Utility.h</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

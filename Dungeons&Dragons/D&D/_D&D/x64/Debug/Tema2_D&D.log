@@ -1,0 +1,20 @@
+﻿  Dungeon_Master.cpp
+C:\Users\sabin\C++ saves\Tema2_D&D\Tema2_D&D\Utility.h(19,2): warning C4091: 'typedef ': ignored on left of 'Ability' when no variable is declared
+  (compiling source file 'Dungeon_Master.cpp')
+  
+C:\Users\sabin\C++ saves\Tema2_D&D\Tema2_D&D\Utility.h(26,2): warning C4091: 'typedef ': ignored on left of 'Enemy_LVL' when no variable is declared
+  (compiling source file 'Dungeon_Master.cpp')
+  
+C:\Users\sabin\C++ saves\Tema2_D&D\Tema2_D&D\Dungeon_Master.cpp(347,20): warning C4101: 'final': unreferenced local variable
+C:\Users\sabin\C++ saves\Tema2_D&D\Tema2_D&D\Dungeon_Master.cpp(362,50): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\sabin\C++ saves\Tema2_D&D\Tema2_D&D\Dungeon_Master.cpp(365,49): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Main.cpp
+C:\Users\sabin\C++ saves\Tema2_D&D\Tema2_D&D\Utility.h(19,2): warning C4091: 'typedef ': ignored on left of 'Ability' when no variable is declared
+  (compiling source file 'Main.cpp')
+  
+C:\Users\sabin\C++ saves\Tema2_D&D\Tema2_D&D\Utility.h(26,2): warning C4091: 'typedef ': ignored on left of 'Enemy_LVL' when no variable is declared
+  (compiling source file 'Main.cpp')
+  
+  Generating Code...
+C:\Users\sabin\C++ saves\Tema2_D&D\Tema2_D&D\Dungeon_Master.cpp(352): warning C4715: 'Dungeon_Master::Verify_Type': not all control paths return a value
+  Tema2_D&D.vcxproj -> C:\Users\sabin\C++ saves\Tema2_D&D\x64\Debug\Tema2_D&D.exe
